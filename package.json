@@ -1,0 +1,25 @@
+{
+  "name": "salesforce-oauth2-flows",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "description": "SalesForce OAuth 2.0 Flows Implementation",
+  "dependencies": {
+    "salesforce-jwt-bearer-token-flow": "^0.1.7",
+    "salesforce-oauth2-web-server-flow": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthurimirzian/salesforce-oauth2-flows"
+  },
+  "keywords": [
+    "Salesforce",
+    "OAuth",
+    "OAuth2"
+  ],
+  "engines": {
+    "node": "0.12.7"
+  },
+  "author": "Arthur IMIRZIAN",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
