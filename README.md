@@ -5,3 +5,7 @@
 ```bash
 $ npm install salesforce-oauth2-flows --save
 ```
+
+## License
+
+MIT
