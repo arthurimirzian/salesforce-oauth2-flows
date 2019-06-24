@@ -1,11 +1,11 @@
 {
   "name": "salesforce-oauth2-flows",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "./lib/index.js",
   "description": "SalesForce OAuth 2.0 Flows Implementation",
   "dependencies": {
-    "salesforce-jwt-bearer-token-flow": "^0.1.8",
-    "salesforce-oauth2-web-server-flow": "^0.1.1"
+    "salesforce-jwt-bearer-token-flow": "^0.2.3",
+    "salesforce-oauth2-web-server-flow": "^0.1.3"
   },
   "repository": {
     "type": "git",
